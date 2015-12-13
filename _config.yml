@@ -1,7 +1,7 @@
 name: GabrielNadeau
 favicon: null
-layout_spectrum: 0.7366203749552369
-typography_spectrum: 0.4140552047174424
+layout_spectrum: 0.90399
+typography_spectrum: 0.7199
 title: null
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#515b58'
     - '#798e92'
     - '#b21f1c'
-  brandStrength: 0.375
-  lightness: 0.05032169003970921
-  saturation: 0.3075255253352225
-  rhythmicContrast: 0.15112868743017316
+  brandStrength: 0.3125
+  lightness: 0.375
+  saturation: 0.8125
+  rhythmicContrast: 0.25
 purpose: []
