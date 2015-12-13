@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: ''
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-13T10:00:21.371Z'
-dateModified: '2015-12-13T10:00:17.978Z'
+datePublished: '2015-12-13T10:01:13.353Z'
+dateModified: '2015-12-13T10:00:55.241Z'
 title: Gabriel Nadeau
 author: []
 sourcePath: _posts/2015-12-13-joyeux-noel.md
