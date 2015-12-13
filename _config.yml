@@ -1,0 +1,29 @@
+name: GabrielNadeau
+favicon: null
+layout_spectrum: 0.7366203749552369
+typography_spectrum: 0.4140552047174424
+title: Gabriel Nadeau
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.09062306000851095
+  lightness: 0.05032169003970921
+  saturation: 0.3075255253352225
+  rhythmicContrast: 0.15112868743017316
+purpose: []
