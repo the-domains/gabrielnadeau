@@ -1,28 +1,33 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
-description: The cake is a lie.
-datePublished: '2015-12-13T08:39:08.810Z'
-dateModified: '2015-12-13T08:37:13.759Z'
-title: Joyeux Noël
+description: ''
+datePublished: '2015-12-13T09:45:02.841Z'
+dateModified: '2015-12-13T09:42:04.475Z'
+title: Gabriel Nadeau
 author: []
+sourcePath: _posts/2015-12-13-joyeux-noel.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-13-joyeux-noel.md
-published: true
-url: joyeux-noel/index.html
-_type: Article
+_type: Blurb
 
 ---
-# Joyeux Noël
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14632c6b-89a6-4159-8ba4-b07046e928f0.jpg)
 
-Voici une carte de souhait que j'ai créé l'an dernier en compagnie de mon fréro.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58e9e4a1-79cf-4b83-bcb2-b629689c5448.jpg)
+# Gabriel Nadeau
+
+Artiste 3D
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34cc9437-b5d7-424d-8250-7a3ed82b20ca.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/892a3c7d-16d1-474f-b0be-ab344d8b7b74.png)
+
+# Site en construction
