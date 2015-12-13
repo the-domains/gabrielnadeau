@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: ''
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-13T10:01:13.353Z'
-dateModified: '2015-12-13T10:00:55.241Z'
+datePublished: '2015-12-13T10:02:44.854Z'
+dateModified: '2015-12-13T10:02:37.223Z'
 title: Gabriel Nadeau
 author: []
 sourcePath: _posts/2015-12-13-joyeux-noel.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: gabriel-nadeau/index.html
+_type: Article
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/048eced57478367d689033480a51f541daa77d34.jpg)
@@ -31,4 +31,3 @@ Artiste 3D
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa16840a-d1c5-47e3-8bb8-819382124a91.jpg)
 
 # Site en construction
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f86ec35-24c9-42fa-a68f-2fffaa5bad1a.png)
