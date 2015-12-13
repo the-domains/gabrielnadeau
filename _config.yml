@@ -1,7 +1,7 @@
 name: GabrielNadeau
 favicon: null
-layout_spectrum: 0.90399
-typography_spectrum: 0.7199
+layout_spectrum: 0.23692
+typography_spectrum: 0.7333
 title: null
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0a0909'
-    - '#fafafa'
-    - '#515b58'
-    - '#798e92'
-    - '#b21f1c'
+    - '#dbd7d6'
+    - '#938b80'
+    - '#030207'
+    - '#4d3200'
+    - '#6a5d38'
   brandStrength: 0.3125
   lightness: 0.375
-  saturation: 0.8125
+  saturation: 0.4375
   rhythmicContrast: 0.25
 purpose: []
